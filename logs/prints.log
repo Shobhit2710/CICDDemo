@@ -1,0 +1,8 @@
+12:34:14.267 [TestNG] INFO  resources.base - Driver is initialized
+12:34:20.182 [TestNG] INFO  resources.base - Navigated to home page
+12:34:20.253 [TestNG] INFO  resources.base - Successfully navigated
+12:34:20.717 [TestNG] INFO  resources.base - Successfully validated the text message
+12:34:44.536 [TestNG] INFO  resources.base - Driver is initialized
+12:34:48.795 [TestNG] INFO  resources.base - Successfully navigated
+12:34:51.225 [TestNG] INFO  resources.base - Navigated to home page
+12:34:51.361 [TestNG] INFO  resources.base - Successfully validated the text message
